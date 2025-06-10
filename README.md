@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙） 
 
-> **更新时间: 2025-05-17 10:13:16**
+> **更新时间: 2025-06-11 10:13:16**
 
 > **ChatGPT 中文版**
 
@@ -12,7 +12,7 @@
 
 **ChatGPT 镜像网站:** [https://xsimplechat.com/](https://xsimplechat.com/)
 
-**ChatGPT 中文版:** [http://chat.lanjing.pro/](https://chat.lanjing.pro/)
+**ChatGPT 中文版:** [http://chat.lanjingai.org/](https://chat.lanjingai.org/)
 ---
 
 ## 📋 目录
